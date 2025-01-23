@@ -1,6 +1,4 @@
-### Previsões de ataque cardíaco em jovens vs adultos na Alemanha (StateWise)
-
-### Dataset Predict Student Performance 
+### Heart attack predictions in young people and adults in Germany (StateWise)
 
 LINK: https://www.kaggle.com/datasets/ankushpanday1/heart-attack-in-youth-vs-adult-in-germany
 
